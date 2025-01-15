@@ -1,9 +1,7 @@
 ![Main photo](https://cdn.jsdelivr.net/gh/songxingling1/songxingling1@master/ajvy7gb5.png)
-- 👋 Hi, I’m @songxingling1
-- 👀 I’m interested in OI,C++,Python,Javascript,CSS
-- 🌱 I’m currently learning OI
-- 💞️ I’m looking to collaborate on Argon-Luogu
-- 📫 How to reach me songxingling1@outlook.com
+
+# Hello, folks! :wave:
+
 
 <!---
 songxingling1/songxingling1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
