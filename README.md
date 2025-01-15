@@ -1,3 +1,4 @@
+![Main photo](https://cdn.jsdelivr.net/gh/songxingling1/songxingling1@master/ajvy7gb5.png)
 - 👋 Hi, I’m @songxingling1
 - 👀 I’m interested in OI,C++,Python,Javascript,CSS
 - 🌱 I’m currently learning OI
