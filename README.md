@@ -14,7 +14,6 @@ And...
 [![](https://github-readme-stats.vercel.app/api/pin/?username=songxingling1&repo=rime-config&theme=onedark&show_owner=true&description_lines_count=2)](https://github.com/songxingling1/rime-config)
 
 # My repositories
-[![](https://github-readme-stats.vercel.app/api/pin/?username=songxingling1&repo=tempermonkey_luogu_popwindow&theme=onedark&description_lines_count=2)](https://github.com/songxingling1/tempermonkey_luogu_popwindow)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=songxingling1&repo=Sudoku&theme=onedark&description_lines_count=2)](https://github.com/songxingling1/Sudoku)
 
 # Language
