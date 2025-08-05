@@ -11,7 +11,6 @@ And...
 
 # Repositories I helped develop
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Ikaleio&repo=argon-luogu&theme=onedark&show_owner=true&description_lines_count=2)](https://github.com/Ikaleio/argon-luogu)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=songxingling1&repo=rime-config&theme=onedark&show_owner=true&description_lines_count=2)](https://github.com/songxingling1/rime-config)
 
 # Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songxingling1&theme=onedark)
